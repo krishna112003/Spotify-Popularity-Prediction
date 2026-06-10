@@ -1,0 +1,32 @@
+# Virtual Environment
+.venv/
+
+# Python Cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Jupyter
+.ipynb_checkpoints/
+
+# VS Code
+.vscode/
+
+# PyCharm
+.idea/
+
+# MacOS
+.DS_Store
+
+# Streamlit Cache
+.streamlit/
+
+# Environment Variables
+.env
+
+# Logs
+*.log
+
+# Large datasets
+data/tracks.csv
+data/artists.csv
